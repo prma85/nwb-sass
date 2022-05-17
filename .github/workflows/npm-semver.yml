@@ -49,4 +49,4 @@ jobs:
               }
             ]
       - run: |
-          git push --follow-tags origin HEAD:main
+          git push --follow-tags origin HEAD:${GITHUB_REF##*/}
