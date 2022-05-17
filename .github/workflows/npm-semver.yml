@@ -3,10 +3,7 @@ name: NPM SemVer
 on:
   pull_request:
     types: [closed]
-    branches:
-      - main
-      - master
-
+    branches: [master]
 jobs:
   semver:
     runs-on: ubuntu-latest
@@ -49,4 +46,4 @@ jobs:
               }
             ]
       - run: |
-          git push --follow-tags origin HEAD:${GITHUB_REF##*/}
+          git push --follow-tags origin HEAD:master
