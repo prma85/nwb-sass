@@ -1,6 +1,6 @@
 {
   "name": "nwb-sass-2",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "Sass plugin for nwb",
   "main": "index.js",
   "files": [
