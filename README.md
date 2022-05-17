@@ -1,5 +1,7 @@
 # nwb-sass
 
+Clone of [nwb-sass] with updated dependencies
+
 [![npm package][npm-badge]][npm]
 
 Plugin enabling [Sass](http://sass-lang.com/) loading rules for `.scss` and `.sass` files in [nwb](https://github.com/insin/nwb) using [sass-loader](https://github.com/webpack-contrib/sass-loader) and [node-sass](https://github.com/sass/node-sass).
@@ -16,3 +18,4 @@ npm install --save-dev nwb-sass
 
 [npm-badge]: https://img.shields.io/npm/v/nwb-sass.svg?style=flat-square
 [npm]: https://www.npmjs.org/package/nwb-sass
+[nwb-sass]: https://github.com/insin/nwb-sass
