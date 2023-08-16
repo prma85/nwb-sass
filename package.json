@@ -1,13 +1,13 @@
 {
   "name": "nwb-sass-v3",
-  "version": "0.11.6",
+  "version": "0.11.7",
   "description": "Sass plugin for nwb",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "sass-loader": "^9.0.0",
+    "sass-loader": "^8.0.0",
     "sass": "^1.51.0"
   },
   "author": {
