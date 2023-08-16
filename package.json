@@ -1,5 +1,5 @@
 {
-  "name": "nwb-sass-2",
+  "name": "nwb-sass-v3",
   "version": "0.11.1",
   "description": "Sass plugin for nwb",
   "main": "index.js",
@@ -7,17 +7,17 @@
     "index.js"
   ],
   "dependencies": {
-    "sass-loader": "^12.6.0",
+    "sass-loader": "^10.1.1",
     "sass": "^1.51.0"
   },
   "author": {
-    "name": "Avi Mehra",
-    "url": "https://pihart.github.io"
+    "name": "Trz",
+    "url": "https://translatez.co"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "github:pihart/nwb-sass"
+    "url": "github:virajsoni06/nwb-sass"
   },
   "keywords": [
     "nwb",
