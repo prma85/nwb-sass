@@ -1,23 +1,23 @@
 {
-  "name": "nwb-sass-v3",
-  "version": "0.11.7",
+  "name": "@prma85/nwb-sass",
+  "version": "1.0.0",
   "description": "Sass plugin for nwb",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "sass-loader": "^8.0.0",
-    "sass": "^1.51.0"
+    "sass-loader": "^7.3.1",
+    "sass": "^1.77.1"
   },
   "author": {
-    "name": "Trz",
-    "url": "https://translatez.co"
+    "name": "Paulo Andrade",
+    "url": "https://github.com/prma85"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "github:virajsoni06/nwb-sass"
+    "url": "github:prma85/nwb-sass"
   },
   "keywords": [
     "nwb",
