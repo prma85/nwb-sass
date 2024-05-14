@@ -1,4 +1,4 @@
-# [@prma85/nwb-sass]
+# [nwb-sass-prma85]
 
 [![npm package][npm-badge]][npm]
 
@@ -11,11 +11,11 @@ Plugin enabling [Sass v7](http://sass-lang.com/) loading rules for `.scss` and `
 Install in a project you're using nwb to develop and nwb will detect and load the plugin:
 
 ```
-npm install --save-dev @prma85/nwb-sass
+npm install --save-dev nwb-sass-prma85
 ```
 
 ## MIT Licensed
 
-[npm-badge]: https://img.shields.io/npm/v/%40prma85%2Fnwb-sass.svg?style=flat-square
-[npm]: https://www.npmjs.org/package/@prma85/nwb-sass
+[npm-badge]: https://img.shields.io/npm/v/nwb-sass-prma85.svg?style=flat-square
+[npm]: https://www.npmjs.org/package/nwb-sass-prma85
 [nwb-sass]: https://github.com/prma85/nwb-sass
